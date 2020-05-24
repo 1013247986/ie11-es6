@@ -1,0 +1,4 @@
+网上链接：   https://blog.csdn.net/qq_31201781/article/details/79099630
+上面一个js    browser-polyfill.min
+下面一个js    browser.min
+中间javas的type 改成text/babel
